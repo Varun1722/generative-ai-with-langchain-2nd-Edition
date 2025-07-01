@@ -1,4 +1,4 @@
-# LangChain Book Projects 📘
+# LangChain Book Projects 
 ![Generative AI with LangChain - Book Cover](book-cover.jpg)
 
 
