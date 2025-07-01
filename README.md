@@ -4,7 +4,7 @@ This repository contains code examples, exercises, and projects based on the boo
 
 📖 **Generative AI with LangChain**  
 [Buy the book](https://www.packtpub.com/en-us/product/generative-ai-with-langchain-9781837022007)
-![Generative AI with LangChain - Book Cover](https://static.packt-cdn.com/products/9781837022007/cover/smaller)
+![Generative AI with LangChain - Book Cover]([https://www.amazon.com/Generative-LangChain-production-ready-applications-LangGraph-ebook/dp/B0DYK6PKWM])
 
 
 It is a hands-on resource to help you master LangChain for building intelligent applications using LLMs.
