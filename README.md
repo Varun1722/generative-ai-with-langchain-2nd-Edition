@@ -1,5 +1,7 @@
 # LangChain Book Projects 📘
 ![Generative AI with LangChain - Book Cover](book-cover.jpg)
+
+
 This repository contains code examples, exercises, and projects based on the book:
 
 📖 **Generative AI with LangChain**  
