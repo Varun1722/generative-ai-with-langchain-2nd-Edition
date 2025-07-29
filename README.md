@@ -23,7 +23,7 @@ In the following table, you can find links to the directories in this repository
 | Chapter 2  | First Steps with LangChain                                  | [chapter2/](chapter2/) | ✅ Available |
 | Chapter 3  | Building Workflows with LangGraph                           | [chapter3/](chapter3/) | ✅ Available |
 | Chapter 4  | Building Intelligent RAG Systems with LangChain             | [chapter4/](chapter4/) | ✅ Available  |
-| Chapter 5  | Building Intelligent Agents                                  | [chapter5/](chapter5/) | Coming soon  |
+| Chapter 5  | Building Intelligent Agents                                  | [chapter5/](chapter5/) | ✅ Available  |
 | Chapter 6  | Advanced Applications and Multi-Agent Systems               | [chapter6/](chapter6/) | Coming soon  |
 | Chapter 7  | Software Development and Data Analysis Agents               | [chapter7/](chapter7/) | Coming soon  |
 | Chapter 8  | Evaluation and Testing of LLM Applications                  | [chapter8/](chapter8/) | Coming soon  |
